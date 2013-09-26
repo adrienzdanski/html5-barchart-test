@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <graph id="0">
+        <data label="label">10</data>
+        <data label="label">20</data>
+        <data label="label">30</data>
+        <data label="label">40</data>
+    </graph>
+
+    <graph id="1">
+        <data label="label">100</data>
+        <data label="label">200</data>
+        <data label="label">300</data>
+        <data label="label">400</data>
+    </graph>
+
+    <graph id="2">
+        <data label="label">77</data>
+        <data label="label">200</data>
+        <data label="label">10</data>
+        <data label="label">150</data>
+    </graph>
+
+    <graph id="3">
+        <data label="label">400</data>
+        <data label="label">344</data>
+        <data label="label">90</data>
+        <data label="label">250</data>
+    </graph>
+</root>
